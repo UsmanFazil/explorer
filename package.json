@@ -25,7 +25,7 @@
     "ledger-cosmos-js": "git+https://github.com/cosmos/ledger-cosmos-js.git",
     "mdbreact": "^4.18.0",
     "meteor-node-stubs": "^0.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.23",
     "numbro": "^2.1.2",
     "plottable": "^3.8.6",
