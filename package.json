@@ -26,7 +26,7 @@
     "mdbreact": "^4.18.0",
     "meteor-node-stubs": "^0.4.1",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.23",
+    "moment-timezone": "^0.5.35",
     "numbro": "^2.1.2",
     "plottable": "^3.8.6",
     "prop-types": "^15.7.2",
